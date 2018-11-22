@@ -25,5 +25,5 @@
 -tools：未分类的tools  
 
 ## Reference
-Named Entity Recognition for Chinese Social Media with Jointly Trained Embeddings
-Design Challenges and Misconceptions in Neural Sequence Labeling
+Named Entity Recognition for Chinese Social Media with Jointly Trained Embeddings  
+Design Challenges and Misconceptions in Neural Sequence Labeling  
