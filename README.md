@@ -11,8 +11,15 @@
 -data：原始数据和处理好的数据  
 -doc：一些参考论文  
 -middle：一些处理的中间文件  
--models：模型
---
+-models：模型  
+--bilstm_cnn_crf: 加入CNN提取特征的模型  
+---network  
+---train  
+---prediction  
+--bilstm_crf：bi lstm crf  
+---network  
+---train  
+---prediction  
 -summary：tensorboard用  
 -data_process：数据处理，包括oversampling  
 -tools：未分类的tools  
