@@ -7,12 +7,15 @@
 
 * 本次采用的是在lstm中加深了网络
 ## Files Structures
-ckpt：保存的模型
-data：原始数据和处理好的数据
-doc：一些参考论文
-middle：一些处理的中间文件
-models：模型
-summary：tensorboard用
+-ckpt：保存的模型  
+-data：原始数据和处理好的数据  
+-doc：一些参考论文  
+-middle：一些处理的中间文件  
+-models：模型
+--
+-summary：tensorboard用  
+-data_process：数据处理，包括oversampling  
+-tools：未分类的tools  
 
 ## Reference
 Named Entity Recognition for Chinese Social Media with Jointly Trained Embeddings
